@@ -1,0 +1,13 @@
+{
+  "name": "promptski",
+  "description": "Mint Promptski Handoff Links — turn session context or any doc into one URL + a paste-ready line another AI ingests directly. No files, no downloads.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Promptski",
+    "url": "https://www.promptski.ai"
+  },
+  "homepage": "https://www.promptski.ai",
+  "repository": "https://github.com/tloshq/promptski-claude",
+  "license": "MIT",
+  "keywords": ["handoff", "context-sharing", "collaboration", "promptski"]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "promptski",
+  "owner": {
+    "name": "Promptski",
+    "url": "https://www.promptski.ai"
+  },
+  "plugins": [
+    {
+      "name": "promptski",
+      "source": "./",
+      "description": "Mint Promptski Handoff Links — turn session context or any doc into one URL + a paste-ready line another AI ingests directly."
+    }
+  ]
+}
