@@ -4,12 +4,12 @@
     "name": "Promptski",
     "url": "https://www.promptski.ai"
   },
-  "description": "Official Promptski plugins — handoff links that let any AI ingest your session context from one URL.",
+  "description": "Official Promptski plugins. Handoff links that let any AI ingest your session context from one URL.",
   "plugins": [
     {
       "name": "promptski",
       "source": "./",
-      "description": "Mint Promptski Handoff Links — turn session context or any doc into one URL + a paste-ready line another AI ingests directly."
+      "description": "Mint Promptski Handoff Links: one URL + a paste-ready line another AI ingests directly. Any AI picks up right where you left off."
     }
   ]
 }

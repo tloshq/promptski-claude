@@ -1,6 +1,6 @@
 {
   "name": "promptski",
-  "description": "Mint Promptski Handoff Links — turn session context or any doc into one URL + a paste-ready line another AI ingests directly. No files, no downloads.",
+  "description": "Mint Promptski Handoff Links: one URL + a paste-ready line another AI ingests directly. Any AI picks up right where you left off.",
   "version": "0.1.0",
   "author": {
     "name": "Promptski",
