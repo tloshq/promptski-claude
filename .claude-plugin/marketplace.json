@@ -4,6 +4,7 @@
     "name": "Promptski",
     "url": "https://www.promptski.ai"
   },
+  "description": "Official Promptski plugins — handoff links that let any AI ingest your session context from one URL.",
   "plugins": [
     {
       "name": "promptski",
